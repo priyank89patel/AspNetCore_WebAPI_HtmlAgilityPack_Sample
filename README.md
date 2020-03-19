@@ -1,2 +1,2 @@
 # AspNetCore_WebAPI_HtmlAgilityPack_Sample
-ASP.NET Core Web API sample utilizing Html Agility Pack library
+More examples of Html Agility Pack can be found here - https://html-agility-pack.net/online-examples
